@@ -26,4 +26,4 @@
 <h3 align="left">Check this app out 👇</h3>
 <a href="https://bit.ly/37K0FPk" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
-
+https://bit.ly/2WTEHb4
