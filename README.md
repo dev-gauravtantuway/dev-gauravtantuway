@@ -2,7 +2,7 @@
 ### Hi there i am Gaurav 👋
 
 
-#### About Me ☺
+#### About Me 👇
 
 • Flutter developer
 
